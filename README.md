@@ -1,7 +1,5 @@
 # 📊 Motorola Mobile Sales Dashboard | Power BI
 
-![Dashboard Preview](dashboard_screenshot.png)
-
 ## 📌 Project Overview
 
 The **Motorola Mobile Sales Dashboard** is an interactive Business Intelligence dashboard developed in **Microsoft Power BI** to analyze mobile sales performance across India.
